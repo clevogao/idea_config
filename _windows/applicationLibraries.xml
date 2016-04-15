@@ -1,0 +1,11 @@
+<application>
+  <component name="libraryTable">
+    <library name="haitun-sdk-2.1.1">
+      <CLASSES>
+        <root url="jar://E:/项目ing/杂项/haitun-sdk-2.1.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>

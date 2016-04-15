@@ -1,0 +1,32 @@
+<keymap version="1" name="MyKeyMap" parent="$default">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+  </action>
+  <action id="Images.Thumbnails.Hide" />
+  <action id="OpenInTerminal.open.current">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f12" />
+  </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="ctrl alt f12" />
+  </action>
+  <action id="ShowFilePath" />
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="Vcs.UpdateProject" />
+</keymap>
