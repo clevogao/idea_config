@@ -3,5 +3,6 @@
     <option name="embedded" value="false" />
     <option name="griffin" value="true" />
     <option name="javaRebelPath" value="C:\Users\Administrator\.IntelliJIdea15\config\plugins\jr-ide-idea\lib\jrebel\jrebel.jar" />
+    <option name="settingsStartupRadioSelection" value="1" />
   </component>
 </application>
