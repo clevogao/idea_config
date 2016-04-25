@@ -1,6 +1,12 @@
 <application>
   <component name="JavaRebelPlugin">
     <option name="embedded" value="false" />
+    <option name="ideInstallationStorage">
+      <map>
+        <entry key="com.zeroturnaround.jrebel.update.LastKnownVersionOnUpdateSite" value="6.4.3" />
+        <entry key="com.zeroturnaround.jrebel.update.UpdateNotificationCount" value="1" />
+      </map>
+    </option>
     <option name="javaRebelPath" value="C:\Users\49413\.IntelliJIdea2016.1\config\plugins\jr-ide-idea\lib\jrebel6\jrebel.jar" />
   </component>
 </application>
