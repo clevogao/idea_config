@@ -5,4 +5,7 @@
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <colors>
+    <option name="FILESTATUS_UNKNOWN" value="99541e" />
+  </colors>
 </scheme>
