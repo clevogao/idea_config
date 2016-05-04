@@ -11,6 +11,10 @@
   <action id="HippieCompletion">
     <keyboard-shortcut first-keystroke="alt period" />
   </action>
+  <action id="Macro.auto make">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="SaveAll" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
