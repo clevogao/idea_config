@@ -1,0 +1,169 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="C:/Application/workIdea/meigoo/meigooo-warehouse/src/main/java/com/meigooo/svc/Application.java" timestamp="1462333896168">
+        <mark key="[" line="25" column="39" />
+      </file>
+      <file name="C:/Application/workIdea/meigoo/meigooo-warehouse/src/main/java/com/meigooo/svc/util/MD5Util.java" timestamp="1462333547901">
+        <mark key="[" line="16" column="29" />
+        <mark key="]" line="16" column="29" />
+        <mark key="^" line="25" column="31" />
+        <mark key="." line="16" column="29" />
+      </file>
+      <file name="C:/Application/workIdea/meigoo/meigooo-warehouse/src/main/java/com/meigooo/svc/domain/ApiResult.java" timestamp="1462334092876">
+        <mark key="'" line="25" column="8" />
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="4" />
+        <mark key="^" line="30" column="0" />
+        <mark key="." line="20" column="4" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="27" column="8" filename="C:/Application/workIdea/meigoo/meigooo-warehouse/src/main/java/com/meigooo/svc/domain/ApiResult.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>p</text>
+      </register>
+      <register name="-" type="4">
+        <text>p</text>
+      </register>
+      <register name="/" type="4">
+        <text>ob</text>
+      </register>
+      <register name="1" type="4">
+        <text>p</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">LigpLS0tLS0tLS0tLS0tLS0+Pj4+PiIrIiIpOwoJCQ==</text>
+      </register>
+      <register name="3" type="4">
+        <text>SystemPublicMetrics</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">KCk7CiAgICAgICAgICAgIA==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">cmV0dXJuIA==</text>
+      </register>
+      <register name="6" type="4">
+        <text>value</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">OwogICAgICAgIA==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">fQogICAg</text>
+      </register>
+      <register name="9" type="4">
+        <text>}</text>
+      </register>
+      <register name=":" type="4">
+        <text>q</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>ob</last-search>
+      <last-offset />
+      <last-pattern>ob</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>ob</entry>
+      </history-search>
+      <history-cmd>
+        <entry>aa</entry>
+        <entry>q</entry>
+        <entry>set so =5</entry>
+        <entry>/ob</entry>
+        <entry encoding="base64">JzwsJz5oYWhh</entry>
+        <entry>v</entry>
+        <entry encoding="base64">JzwsJz52</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
