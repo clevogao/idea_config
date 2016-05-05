@@ -1,4 +1,7 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="AceJumpAction">
+    <keyboard-shortcut first-keystroke="alt semicolon" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
@@ -6,7 +9,7 @@
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
   <action id="EditorSelectWord">
-    <keyboard-shortcut first-keystroke="ctrl l" />
+    <keyboard-shortcut first-keystroke="alt l" />
   </action>
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
