@@ -42,6 +42,18 @@
           <option name="url" value="http://114.55.54.190/xiayun/meigooo-support.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://114.55.54.190/java/meigooo-goods.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://114.55.54.190/java/meigooo-quickstart.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://114.55.54.190/java/meigooo-support.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Application\workIdea\meigoo" />
