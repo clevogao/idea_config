@@ -1,0 +1,18 @@
+<keymap version="1" name="mykeys" parent="$default">
+  <action id="AceJumpAction">
+    <keyboard-shortcut first-keystroke="alt semicolon" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="HippieCompletion" />
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="ctrl alt f11" />
+  </action>
+</keymap>
