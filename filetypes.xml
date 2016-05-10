@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="HttpClientUtil" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
