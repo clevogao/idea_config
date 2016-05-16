@@ -3,6 +3,16 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
+      <file name="C:/Application/workIdea/meigoo/meigooo-building/src/main/java/com/meigooo/building/web/BuildingFrontController.java" timestamp="1463368098246">
+        <mark key="'" line="61" column="12" />
+        <mark key="[" line="133" column="52" />
+        <mark key="]" line="137" column="7" />
+        <mark key="." line="61" column="205" />
+        <mark key="^" line="137" column="7" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1463368026182">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/Application/workIdea/meigoo/meigooo-warehouse/src/main/java/com/meigooo/svc/Application.java" timestamp="1462333896168">
         <mark key="[" line="25" column="39" />
       </file>
@@ -22,43 +32,50 @@
     </filemarks>
     <jumps>
       <jump line="27" column="8" filename="C:/Application/workIdea/meigoo/meigooo-warehouse/src/main/java/com/meigooo/svc/domain/ApiResult.java" />
+      <jump line="138" column="27" filename="C:/Application/workIdea/meigoo/meigooo-building/src/main/java/com/meigooo/building/web/BuildingFrontController.java" />
+      <jump line="156" column="0" filename="C:/Application/workIdea/meigoo/meigooo-building/src/main/java/com/meigooo/building/web/BuildingFrontController.java" />
+      <jump line="132" column="0" filename="C:/Application/workIdea/meigoo/meigooo-building/src/main/java/com/meigooo/building/web/BuildingFrontController.java" />
+      <jump line="109" column="0" filename="C:/Application/workIdea/meigoo/meigooo-building/src/main/java/com/meigooo/building/web/BuildingFrontController.java" />
+      <jump line="70" column="0" filename="C:/Application/workIdea/meigoo/meigooo-building/src/main/java/com/meigooo/building/web/BuildingFrontController.java" />
+      <jump line="86" column="0" filename="C:/Application/workIdea/meigoo/meigooo-building/src/main/java/com/meigooo/building/web/BuildingFrontController.java" />
+      <jump line="61" column="12" filename="C:/Application/workIdea/meigoo/meigooo-building/src/main/java/com/meigooo/building/web/BuildingFrontController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>ob</text>
       </register>
       <register name="1" type="4">
-        <text>p</text>
+        <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">LigpLS0tLS0tLS0tLS0tLS0+Pj4+PiIrIiIpOwoJCQ==</text>
+        <text />
       </register>
       <register name="3" type="4">
-        <text>SystemPublicMetrics</text>
+        <text>p</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">KCk7CiAgICAgICAgICAgIA==</text>
+        <text encoding="base64">LigpLS0tLS0tLS0tLS0tLS0+Pj4+PiIrIiIpOwoJCQ==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>SystemPublicMetrics</text>
       </register>
       <register name="6" type="4">
-        <text>value</text>
+        <text encoding="base64">KCk7CiAgICAgICAgICAgIA==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">OwogICAgICAgIA==</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">fQogICAg</text>
+        <text>value</text>
       </register>
       <register name="9" type="4">
-        <text>}</text>
+        <text encoding="base64">OwogICAgICAgIA==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -77,13 +94,15 @@
       </history-search>
       <history-cmd>
         <entry>aa</entry>
-        <entry>q</entry>
         <entry>set so =5</entry>
         <entry>/ob</entry>
         <entry encoding="base64">JzwsJz5oYWhh</entry>
         <entry>v</entry>
         <entry encoding="base64">JzwsJz52</entry>
+        <entry>q</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
