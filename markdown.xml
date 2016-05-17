@@ -2,4 +2,5 @@
   <component name="MarkdownApplicationSettings">
     <MarkdownPreviewSettings UseGrayscaleRendering="true" />
   </component>
+  <component name="MarkdownSettings" parsingTimeout="1" smarts="true" quotes="true" abbreviations="true" hardWraps="true" autoLinks="true" wikiLinks="true" tables="true" definitions="true" fencedCodeBlocks="true" suppressHTMLBlocks="true" suppressInlineHTML="true" strikethrough="true" />
 </application>
