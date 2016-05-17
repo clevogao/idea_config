@@ -1,13 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="md" approved="true" type="Markdown" />
       <mapping pattern="test3" type="PLAIN_TEXT" />
       <mapping pattern="Test22" type="PLAIN_TEXT" />
       <mapping pattern="HttpClientUtil" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
