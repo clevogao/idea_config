@@ -12,6 +12,7 @@
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
   <action id="HippieCompletion" />
+  <action id="IntroduceFunctionalParameter" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
@@ -30,4 +31,8 @@
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="ctrl alt f11" />
   </action>
+  <action id="com.vladsch.idea.multimarkdown.editor.actions.editorLayout.PreviewOnlyLayoutChangeAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt p" />
+  </action>
+  <action id="com.vladsch.idea.multimarkdown.editor.actions.editorLayout.ToggleSplitLayoutChangeAction" />
 </keymap>
