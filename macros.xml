@@ -4,5 +4,9 @@
       <action id="SaveAll" />
       <action id="CompileDirty" />
     </macro>
+    <macro name="saveAndMake">
+      <action id="SaveAll" />
+      <action id="CompileDirty" />
+    </macro>
   </component>
 </application>
