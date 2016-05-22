@@ -13,7 +13,7 @@
       <option name="COMPLETION" value="true" />
     </context>
   </template>
-  <template name="new:list:string" value="List&lt;String&gt; $end$=new ArrayList&lt;String&gt;();" shortcut="SPACE" description="list" toReformat="true" toShortenFQNames="false">
+  <template name="new:list:string" value="List&lt;String&gt; $end$=new ArrayList&lt;String&gt;();" shortcut="SPACE" description="list" toReformat="true" toShortenFQNames="true">
     <variable name="end" expression="list" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
@@ -25,7 +25,7 @@
       <option name="COMPLETION" value="true" />
     </context>
   </template>
-  <template name="new:list:map" value="List&lt;Map&lt;String,Object&gt;&gt; $end$=new ArrayList&lt;Map&lt;String,Object&gt;&gt;();" toReformat="true" toShortenFQNames="false">
+  <template name="new:list:map" value="List&lt;Map&lt;String,Object&gt;&gt; $end$=new ArrayList&lt;Map&lt;String,Object&gt;&gt;();" toReformat="true" toShortenFQNames="true">
     <variable name="end" expression="expectedType()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
@@ -99,7 +99,7 @@
       <option name="COMPLETION" value="true" />
     </context>
   </template>
-  <template name="new:smap" value=" private Map&lt;String,Object&gt; map=new HashMap&lt;String,Object&gt;();" toReformat="true" toShortenFQNames="true">
+  <template name="new:smap" value="Map&lt;String,Object&gt; map=new HashMap&lt;String,Object&gt;();" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
       <option name="JAVA_STATEMENT" value="true" />
