@@ -3,6 +3,7 @@
   <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="X_SMALL" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="FILESTATUS_UNKNOWN" value="99541e" />
