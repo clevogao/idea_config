@@ -119,4 +119,18 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="sssjackson" value="try{System.out.println(&quot;$a$.$b$()--------------&gt;&gt;&gt;&gt;&gt;&quot;+new ObjectMapper ().writeValueAsString ($end$));} catch (JsonProcessingException e) {e.printStackTrace ();}" toReformat="true" toShortenFQNames="true">
+    <variable name="a" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <variable name="b" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+      <option name="COMPLETION" value="true" />
+    </context>
+  </template>
 </templateSet>
