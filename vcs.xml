@@ -82,6 +82,14 @@
           <option name="url" value="http://114.55.54.190/java/meigooo-admin.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://114.55.54.190/java/meigooo-core.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://114.55.54.190/java/meigooo-domain.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Application\workIdea\meigoo" />
