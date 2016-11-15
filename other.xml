@@ -32,8 +32,9 @@
     <option name="myTypedURLs">
       <list>
         <option value="http://code.taobao.org/svn/cplus_backend/" />
+        <option value="http://code.taobao.org/svn/cplus_backend" />
       </list>
     </option>
-    <option name="mySvnCommandLine" value="C:\Program Files\TortoiseSVN\bin" />
+    <option name="mySvnCommandLine" value="C:\Program Files\TortoiseSVN\bin\svn.exe" />
   </component>
 </application>
