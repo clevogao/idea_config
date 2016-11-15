@@ -24,6 +24,16 @@
     <option name="INTRODUCE_PARAMETER_CREATE_FINALS" value="false" />
   </component>
   <component name="SvnApplicationSettings">
-    <option name="mySvnCommandLine" value="D:\Application\Svn\bin\svn.exe" />
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="http://code.taobao.org/svn/cplus_backend/" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="http://code.taobao.org/svn/cplus_backend/" />
+      </list>
+    </option>
+    <option name="mySvnCommandLine" value="C:\Program Files\TortoiseSVN\bin" />
   </component>
 </application>
