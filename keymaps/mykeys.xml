@@ -8,6 +8,9 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
+  <action id="CodeEditorBaseGroup">
+    <keyboard-shortcut first-keystroke="shift alt back_slash" />
+  </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
