@@ -1,11 +1,10 @@
 <application>
   <component name="JavaRebelPlugin">
-    <option name="griffin" value="false" />
     <option name="ideInstallationStorage">
       <map>
         <entry key="com.zeroturnaround.jrebel.FormatVersion" value="7.0.0" />
         <entry key="com.zeroturnaround.jrebel.update.LastKnownVersionOnUpdateSite" value="7.0.1" />
-        <entry key="com.zeroturnaround.jrebel.update.UpdateNotificationCount" value="1" />
+        <entry key="com.zeroturnaround.jrebel.update.UpdateNotificationCount" value="2" />
       </map>
     </option>
     <option name="javaRebelPath" value="C:\Users\Clevo\.IntelliJIdea2016.1\config\plugins\jr-ide-idea\lib\jrebel6\jrebel.jar" />
