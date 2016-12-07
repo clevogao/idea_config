@@ -9,5 +9,6 @@
       </map>
     </option>
     <option name="javaRebelPath" value="$APPLICATION_PLUGINS_DIR$/jr-ide-idea/lib/jrebel/jrebel.jar" />
+    <option name="settingsStartupRadioSelection" value="1" />
   </component>
 </application>
