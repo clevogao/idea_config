@@ -8,6 +8,6 @@
         <entry key="com.zeroturnaround.jrebel.update.UpdateNotificationCount" value="2" />
       </map>
     </option>
-    <option name="javaRebelPath" value="$APPLICATION_PLUGINS_DIR$/jr-ide-idea/lib/jrebel6/jrebel.jar" />
+    <option name="javaRebelPath" value="$APPLICATION_PLUGINS_DIR$/jr-ide-idea/lib/jrebel/jrebel.jar" />
   </component>
 </application>
