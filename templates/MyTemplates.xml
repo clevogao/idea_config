@@ -165,13 +165,13 @@
       <option name="JSX_HTML" value="true" />
       <option name="JS_STATEMENT" value="true" />
       <option name="TypeScript" value="true" />
+      <option name="JSP" value="true" />
       <option name="GROOVY" value="true" />
       <option name="GROOVY_EXPRESSION" value="true" />
       <option name="GROOVY_STATEMENT" value="true" />
       <option name="GROOVY_DECLARATION" value="true" />
       <option name="MAVEN" value="true" />
       <option name="ASPECTJ" value="true" />
-      <option name="JSP" value="true" />
       <option name="OTHER" value="true" />
     </context>
   </template>
