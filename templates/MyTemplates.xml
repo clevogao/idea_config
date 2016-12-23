@@ -61,9 +61,9 @@
       <option name="COMPLETION" value="true" />
     </context>
   </template>
-  <template name="new:mapping" value="    /*** gaojiawei*/&#10;    @RequestMapping(&quot;/$name$&quot;)&#10;    public void $name$(){&#10;        $end$&#10;    }" toReformat="true" toShortenFQNames="true">
+  <template name="newmapping" value="    /***&#10;     * creat at gaojiawei&#10;     */&#10;    @RequestMapping(&quot;/$name$&quot;)&#10;    public JsonResult $name$(){&#10;        $end$&#10;&#9;&#9;return JsonResult.success ();&#10;    }" toReformat="true" toShortenFQNames="true">
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="end" expression="" defaultValue="" alwaysStopAt="false" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
       <option name="JAVA_STATEMENT" value="true" />
