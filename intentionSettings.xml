@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="Java/Declaration/Bind parameters to fields" />
+    <ignoreAction name="Language Injection/Inject language or reference" />
   </component>
 </application>
