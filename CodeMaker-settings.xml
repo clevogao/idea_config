@@ -1,18 +1,7 @@
 <application>
   <component name="CodeMakerSettings">
     <option name="codeTemplates">
-      <map>
-        <entry key="a">
-          <value>
-            <CodeTemplate>
-              <option name="classNameVm" value="a1" />
-              <option name="classNumber" value="1" />
-              <option name="codeTemplate" value="1111" />
-              <option name="name" value="a" />
-            </CodeTemplate>
-          </value>
-        </entry>
-      </map>
+      <map />
     </option>
   </component>
 </application>
