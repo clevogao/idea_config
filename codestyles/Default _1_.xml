@@ -2,6 +2,7 @@
   <option name="JD_ADD_BLANK_AFTER_DESCRIPTION" value="false" />
   <option name="JD_DO_NOT_WRAP_ONE_LINE_COMMENTS" value="true" />
   <MarkdownNavigatorCodeStyleSettings>
+    <option name="TABLE_LEFT_ALIGN_MARKER" value="0" />
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
   <XML>

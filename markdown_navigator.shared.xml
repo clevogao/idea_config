@@ -7,31 +7,31 @@
     </PreviewSettings>
     <ParserSettings parsingTimeout="100">
       <PegdownExtensions>
-        <option name="ABBREVIATIONS" value="true" />
+        <option name="ABBREVIATIONS" value="false" />
         <option name="ANCHORLINKS" value="true" />
         <option name="ATXHEADERSPACE" value="true" />
         <option name="AUTOLINKS" value="true" />
-        <option name="DEFINITIONS" value="true" />
+        <option name="DEFINITIONS" value="false" />
         <option name="FENCED_CODE_BLOCKS" value="true" />
         <option name="FOOTNOTES" value="false" />
         <option name="FORCELISTITEMPARA" value="false" />
         <option name="HARDWRAPS" value="false" />
-        <option name="QUOTES" value="true" />
+        <option name="QUOTES" value="false" />
         <option name="RELAXEDHRULES" value="true" />
-        <option name="SMARTS" value="true" />
+        <option name="SMARTS" value="false" />
         <option name="STRIKETHROUGH" value="true" />
-        <option name="SUPPRESS_HTML_BLOCKS" value="true" />
-        <option name="SUPPRESS_INLINE_HTML" value="true" />
+        <option name="SUPPRESS_HTML_BLOCKS" value="false" />
+        <option name="SUPPRESS_INLINE_HTML" value="false" />
         <option name="TABLES" value="true" />
         <option name="TASKLISTITEMS" value="true" />
         <option name="TOC" value="false" />
         <option name="TRACE_PARSER" value="false" />
-        <option name="WIKILINKS" value="true" />
+        <option name="WIKILINKS" value="false" />
       </PegdownExtensions>
       <ParserOptions>
         <option name="EMOJI_SHORTCUTS" value="true" />
         <option name="GITHUB_EMOJI_URL" value="true" />
-        <option name="GITHUB_WIKI_LINKS" value="true" />
+        <option name="GITHUB_WIKI_LINKS" value="false" />
         <option name="JEKYLL_FRONT_MATTER" value="false" />
       </ParserOptions>
     </ParserSettings>
