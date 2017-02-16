@@ -13,7 +13,7 @@
       <option name="COMPLETION" value="true" />
     </context>
   </template>
-  <template name="new:list:string" value="List&lt;String&gt; $end$=new ArrayList&lt;String&gt;();" shortcut="SPACE" description="list" toReformat="true" toShortenFQNames="true">
+  <template name="newListString" value="List&lt;String&gt; $end$=new ArrayList&lt;String&gt;();" shortcut="SPACE" description="" toReformat="true" toShortenFQNames="true">
     <variable name="end" expression="list" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
@@ -25,7 +25,7 @@
       <option name="COMPLETION" value="true" />
     </context>
   </template>
-  <template name="new:list:map" value="List&lt;Map&lt;String,Object&gt;&gt; $end$=new ArrayList&lt;Map&lt;String,Object&gt;&gt;();" toReformat="true" toShortenFQNames="true">
+  <template name="newListMap" value="List&lt;Map&lt;String,Object&gt;&gt; $end$=new ArrayList&lt;Map&lt;String,Object&gt;&gt;();" toReformat="true" toShortenFQNames="true">
     <variable name="end" expression="expectedType()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
@@ -61,7 +61,8 @@
       <option name="COMPLETION" value="true" />
     </context>
   </template>
-  <template name="newmapping" value="    /***&#10;     * creat at gaojiawei&#10;     */&#10;    @RequestMapping(&quot;/$name$&quot;)&#10;    public JsonResult $name$(){&#10;        $end$&#10;&#9;&#9;return JsonResult.success ();&#10;    }" toReformat="true" toShortenFQNames="true">
+  <template name="newMapping" value="    /***&#10;     * Author: $user$&#10;     */&#10;    @RequestMapping(&quot;/$name$&quot;)&#10;    public JsonResult $name$(){&#10;        $end$&#10;&#9;&#9;return JsonResult.success ();&#10;    }" toReformat="true" toShortenFQNames="true">
+    <variable name="user" expression="user()" defaultValue="" alwaysStopAt="true" />
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -74,7 +75,7 @@
       <option name="COMPLETION" value="true" />
     </context>
   </template>
-  <template name="new:logger" value="private final static Logger logger = LoggerFactory.getLogger ($classname$.class);" toReformat="true" toShortenFQNames="true">
+  <template name="newlogger" value="private final static Logger logger = LoggerFactory.getLogger ($classname$.class);" toReformat="true" toShortenFQNames="true">
     <variable name="classname" expression="className()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_CODE" value="true" />
@@ -99,7 +100,7 @@
       <option name="COMPLETION" value="true" />
     </context>
   </template>
-  <template name="new:smap" value="Map&lt;String,Object&gt; map=new HashMap&lt;String,Object&gt;();" toReformat="true" toShortenFQNames="true">
+  <template name="newMap" value="Map&lt;String,Object&gt; map=new HashMap&lt;String,Object&gt;();" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
       <option name="JAVA_STATEMENT" value="true" />
@@ -119,7 +120,7 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="sssjackson" value="try{System.out.println(&quot;$a$.$b$()--------------&gt;&gt;&gt;&gt;&gt;&quot;+new ObjectMapper ().writeValueAsString ($end$));} catch (JsonProcessingException e) {e.printStackTrace ();}" toReformat="true" toShortenFQNames="true">
+  <template name="sssJackson" value="try{System.out.println(&quot;$a$.$b$()--------------&gt;&gt;&gt;&gt;&gt;&quot;+new ObjectMapper ().writeValueAsString ($end$));} catch (JsonProcessingException e) {e.printStackTrace ();}" toReformat="true" toShortenFQNames="true">
     <variable name="a" expression="className()" defaultValue="" alwaysStopAt="false" />
     <variable name="b" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
