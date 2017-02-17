@@ -61,7 +61,7 @@
       <option name="COMPLETION" value="true" />
     </context>
   </template>
-  <template name="newMapping" value="    /***&#10;     * Author: $user$&#10;     */&#10;    @RequestMapping(&quot;/$name$&quot;)&#10;    public JsonResult $name$(){&#10;        $end$&#10;&#9;&#9;return JsonResult.success ();&#10;    }" toReformat="true" toShortenFQNames="true">
+  <template name="newMapping" value="    /***&#10;     * Author: $user$&#10;     */&#10;    @RequestMapping(value=&quot;/$name$&quot;,method= RequestMethod.POST)&#10;    public JsonResult $name$(){&#10;        $end$&#10;&#9;&#9;return JsonResult.success ();&#10;    }" toReformat="true" toShortenFQNames="true">
     <variable name="user" expression="user()" defaultValue="" alwaysStopAt="true" />
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
