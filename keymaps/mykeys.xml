@@ -2,10 +2,10 @@
   <action id="AceJumpAction">
     <keyboard-shortcut first-keystroke="alt semicolon" />
   </action>
-  <action id="ActivateFindToolWindow" />
-  <action id="ActivateJRebelExecutorToolWindow">
+  <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt 4" />
   </action>
+  <action id="ActivateFindToolWindow" />
   <action id="ActivateRunToolWindow">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
