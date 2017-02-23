@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="customScope" value="File 'C:\Application\workIdea\cplus_backend\app\src\main\java\la\cplus\app\customer\web\CustmerAccountController.java'" />
+    <option name="defaultScopeName" value="File 'C:\Application\workIdea\cplus_backend\app\src\main\java\la\cplus\app\customer\web\CustmerAccountController.java'" />
+    <option name="SEARCH_SCOPE" value="File 'C:\Application\workIdea\cplus_backend\app\src\main\java\la\cplus\app\customer\web\CustmerAccountController.java'" />
   </component>
 </application>
