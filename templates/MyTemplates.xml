@@ -61,7 +61,7 @@
       <option name="COMPLETION" value="true" />
     </context>
   </template>
-  <template name="newMapping" value="    /***&#10;     * Description: TODO&#10;     * Author: gaojiawei&#10;     */&#10;    @RequestMapping(value=&quot;/$name$&quot;,method= RequestMethod.POST)&#10;    public JsonResult $name$(){&#10;&#9;&#9;return JsonResult.success ();&#10;    }" toReformat="true" toShortenFQNames="true">
+  <template name="newMapping" value="    /***&#10;     * Description: TODO&#10;     * Author: gaojiawei&#10;     */&#10;    @RequestMapping(value=&quot;/$name$&quot;,method= RequestMethod.POST)&#10;    public JsonResult $name$(HttpServletRequest request){&#10;&#9;    Record record =getRecord(request);&#10;&#9;&#9;return JsonResult.success ();&#10;    }" toReformat="true" toShortenFQNames="true">
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
