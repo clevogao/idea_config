@@ -49,7 +49,7 @@
       <option name="COMPLETION" value="true" />
     </context>
   </template>
-  <template name="ps" value="private String $end$" toReformat="false" toShortenFQNames="true">
+  <template name="ps" value="private String $end$;" toReformat="false" toShortenFQNames="true">
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
@@ -61,12 +61,12 @@
       <option name="COMPLETION" value="true" />
     </context>
   </template>
-  <template name="newMapping" value="    /***&#10;     * Description: TODO&#10;     * Author: gaojiawei&#10;     */&#10;    @RequestMapping(value=&quot;/$name$&quot;,method= RequestMethod.POST)&#10;    public JsonResult $name$(HttpServletRequest request){&#10;&#9;    Record record =getRecord(request);&#10;&#9;&#9;return JsonResult.success ();&#10;    }" toReformat="true" toShortenFQNames="true">
+  <template name="newMapping" value="    /***&#10;     * Description: TODO&#10;     * Author: gaojiawei&#10;     */&#10;    @RequestMapping(value=&quot;/$name$&quot;,method= RequestMethod.GET)&#10;    public JsonResult $name$(){&#10;&#9;    Record record =getRecord(request);&#10;&#9;&#9;return JsonResult.success ();&#10;    }" toReformat="true" toShortenFQNames="true">
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
       <option name="JAVA_STATEMENT" value="true" />
-      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_EXPRESSION" value="false" />
       <option name="JAVA_DECLARATION" value="true" />
       <option name="JAVA_COMMENT" value="true" />
       <option name="JAVA_STRING" value="true" />
@@ -132,13 +132,6 @@
       <option name="COMPLETION" value="true" />
     </context>
   </template>
-  <template name="foreach" value=" &lt;foreach item=&quot;item&quot; index=&quot;index&quot; collection=&quot;list&quot; open=&quot;(&quot; separator=&quot;,&quot; close=&quot;)&quot;&gt;&#10;      #{item}&#10;&lt;/foreach&gt;" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="XSL_TEXT" value="true" />
-      <option name="XML" value="true" />
-      <option name="XML_TEXT" value="true" />
-    </context>
-  </template>
   <template name="assoc" value="&lt;association property=&quot;&quot; column=&quot;&quot; javaType=&quot;&quot;&gt;&#10;       &lt;result column=&quot;&quot; property=&quot;&quot;/&gt;&#10;&lt;/association&gt;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML_TEXT" value="true" />
@@ -184,6 +177,18 @@
       <option name="JAVA_EXPRESSION" value="true" />
       <option name="JAVA_DECLARATION" value="true" />
       <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+      <option name="COMPLETION" value="true" />
+    </context>
+  </template>
+  <template name="psss" value="private static String $end$=&quot;$end$&quot;;" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="false" />
+      <option name="JAVA_COMMENT" value="false" />
       <option name="JAVA_STRING" value="true" />
       <option name="COMPLETION" value="true" />
     </context>
